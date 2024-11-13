@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hola, soy Alejandro Falcon
 
-<!--
-**TheMartixAmazing/TheMartixAmazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hola mi nombre es Alejandro Falcon y bienvenidos a mi repositorio personal
+Bienvenidos a mi repositorio personal
 
 - 🔭 Me encuentro estudiando en la Universidad Tecnica de Ambato
 - 🌱 Estudio Ingeniería en Software
@@ -11,9 +8,5 @@ Hola mi nombre es Alejandro Falcon y bienvenidos a mi repositorio personal
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Info personal, hobbies.
-
--->
+- 😄 Él
+- ⚡ Fun fact: ..
