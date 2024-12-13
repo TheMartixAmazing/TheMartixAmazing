@@ -1,9 +1,9 @@
-## Hola, soy Alejandro Falcon
+## Hola, soy Alejandro Falcón
 
-Bienvenidos a mi repositorio personal
+Bienvenidos a mi repositorio personal:
 
-- 🔭 Me encuentro estudiando en la Universidad Tecnica de Ambato
-- 🌱 Estudio Ingeniería en Software
+- 🔭 Me encuentro estudiando en la Universidad Técnica de Ambato.
+- 🌱 Estudio Ingeniería en Software.
 - 👯 Aspiro a graduarme para poder crear cosas distintas para el mundo a partir de mi conocimiento.
 - 🤔 Pienso en poder formar mi propia empresa en un futuro cercano.
 - 📫 Me podrás conocer como TheMartixAmazing.
